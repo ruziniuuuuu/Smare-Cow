@@ -1,1 +1,1 @@
-# Smare-Cow
+# Smart-Cow
